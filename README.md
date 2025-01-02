@@ -1,7 +1,7 @@
 # Online-Learning-Platfom
 #MERN BASED
 
-# Online Learning Platform
+
 
 Online Learning Platform using MERN Stack
 
